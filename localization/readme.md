@@ -14,3 +14,15 @@ At the moment UILabel and UITextField (see categories/UIView+Localization.m)  ar
 Interface Viewcontrollers should inherit from "BaseViewController.h" (or implement similar functionality)
 
 Enjoy !
+
+## Implementation
+
+The tag is defined in the localizable.strings file - this uid is used as a reference point for your interface object - see main.storyboard and the single label - click on the properies in the inspector to change the information.
+
+## Usage
+
+This code is free to use, modify and distribute without rights acknowledgement
+
+## Exeperience Level
+
+Middle to Expert - Understanding of adding properties to base-classes (through categories) using objc-runtime.
