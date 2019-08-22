@@ -7,7 +7,7 @@ iOS Objective-C
 
 ## Preface
 
-This facility allows you to use the IBDesigned tag to associate a UID to modify a resource's visual text when a storyboard is loading.
+This facility allows you to use the IBInspectable tag to associate a UID to modify a resource's visual text when a storyboard is loading.
 
 At the moment UILabel and UITextField (see categories/UIView+Localization.m)  are supported however im sure you can work this out.
 
